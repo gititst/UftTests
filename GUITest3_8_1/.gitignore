@@ -1,7 +1,8 @@
-#UFT ignore section1
+#UFT ignore section
 *.lck
 /Res*
-#end UFT ignore section1
+#end UFT ignore section
+1
 
 
 
